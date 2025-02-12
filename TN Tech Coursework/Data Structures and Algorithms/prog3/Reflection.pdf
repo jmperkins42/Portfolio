@@ -1,0 +1,19 @@
+/*
+    title: reflection.pdf
+    author: Jonah Perkins
+    date: 4/3/23
+    purpose: reflection paragraph
+*/
+    
+    This was by far the easiest programming assignment we have done in this class.
+It didn't take me too long to figure out what I was doing with everything, and
+I slowly put it all together, getting a better understanding of it's function as a
+whole. At some point, I got it all put together (at least I thought) and I tried to
+compile, which it did no problem. However, when running the program, nothing would
+print on the screen and it would be stuck loading for forever. I eventually realized
+that I didn't set the tableSize variable to the size given in the constructor, and
+that is what fixed that issue. After that, I realized that my remove function wasn't
+actually stitching my bucket list back together but just deleting the entry, which I
+realized would become a problem very quickly. After fixing that, I had no issues.
+Overall I would say I am happy with the work I did, even if I made some dumb mistakes
+along the way.

@@ -1,0 +1,18 @@
+    I surprisingly enjoyed this assignment. While it was a headache to figure out
+a few things, I have only myself to blame because I waited until the very last
+minute to do this. In fact I am writing this just under two hours before I am
+supposed to submit it. Luckily I am in fact finished. The list class itelf
+wasn't that difficult to write, it was mostly the mergesort algorithm that
+gave me some issues, as you might have expected. I appreciate the info about 
+comparing the T objects and what the return type needs to be when returning the 
+node, although it might help others if this is bold or you make it stand out 
+more, just because I looked over them at first. At first I had an issue or two
+with the split algorithm, but I quickly solved it. Also, it was tricky figuring 
+out how to set the recursive merge algorithm's return node's previous pointer 
+to the originally selected node. Essentially the wording in the merge function 
+instructions was difficult to figure out at first, but eventually I got it. 
+This program wasn't too difficult to figure out, and it gave me a better under-
+standing of the merge sort algorithm and practice with recursion. Another thing
+that wasn't clear was how you wanted the print function to look or what info 
+needed to be printed, so I just ended up printing index and population of each
+county in the list, since those were the ones with public accessor functions.
